@@ -1,7 +1,7 @@
 Akamai Cache Clear
 ==================
 
-Node.js application for interacting with Akamai API
+Node.js application for clearing the Akamai cache via API
 
 Help
 ----
