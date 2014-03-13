@@ -15,21 +15,21 @@ Help
 node bin/cacheclear.js -h
 ```
 
-User Argument
+Passing in the User Argument
 -------------
 
 ```
 node bin/cacheclear.js -u=user@domain.com
 ```
 
-Password Argument
+Passing in the Password Argument
 -----------------
 
 ```
 node bin/cacheclear.js -p=password
 ```
 
-Project/Job Argument
+Passing in the Project/Job Argument
 --------------------
 
 ```
@@ -42,7 +42,7 @@ node bin/cacheclear.js -j=projectname
 
 > Bold indicates default
 
-Environment Argument
+Passing in the Environment Argument
 --------------------
 
 ```
