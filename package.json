@@ -10,7 +10,8 @@
   "dependencies": {
     "akamai": "0.1.2",
     "argparse": "0.1.15",
-    "config": "0.4.35"
+    "config": "0.4.35",
+    "yaml": "0.2.3"
   },
   "devDependencies": {},
   "optionalDependencies": {}
