@@ -3,6 +3,11 @@ Akamai Cache Clear
 
 Node.js application for clearing the Akamai cache via API
 
+Installation
+------------
+- Clone the GitHub Repository
+- ``` npm install ```
+
 Help
 ----
 
