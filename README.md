@@ -7,6 +7,7 @@ Installation
 ------------
 - Clone the GitHub Repository
 - ``` npm install ```
+- add default.yaml from Confluence to the following location:  ``` config/default.yaml ```
 
 Help
 ----
