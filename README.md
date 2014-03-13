@@ -1,5 +1,5 @@
-akamai
-======
+Akamai Cache Clear
+==================
 
 Node.js application for interacting with Akamai API
 
