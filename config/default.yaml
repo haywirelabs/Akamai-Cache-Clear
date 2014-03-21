@@ -1,0 +1,16 @@
+cpcodes:
+  learn:
+    - 226843
+    - 226844
+    - 226847
+  flh:
+    - 250086
+    - 250087
+notificationList:
+  - joe.osborne@aquilent.com
+  - andrew.newhouse@aquilent.com
+  - abhijeet.sharma@aquilent.com
+defaultEnvironment: staging
+defaultProject: learn
+akamaiUser: USER@DOMAIN.COM
+akamaiPW: YOURPASSWORD
