@@ -6,8 +6,12 @@ Node.js application for clearing the Akamai cache via API
 Installation
 ------------
 - Clone the GitHub Repository
-- ``` npm install ```
-- add [default.yaml from Confluence](https://confluence.cms.gov/display/HCTWO/Akamai+Cache+Clear+Configuration) to the following location:  ``` config/default.yaml ```
+- Install all NPM Dependencies
+  - ``` npm install ```
+- Update your Akamai user name in the configuration file
+  - ``` APPROOT/config/default.yaml ```
+- Update your Akamai password in the configuration file
+  - ``` APPROOT/config/default.yaml ```
 
 Help
 ----
@@ -20,38 +24,26 @@ Passing in the User Argument
 -------------
 
 ```
-node bin/cacheclear.js -u=user@domain.com
+node bin/cacheclear.js -u user@domain.com
 ```
 
 Passing in the Password Argument
 -----------------
 
 ```
-node bin/cacheclear.js -p=password
+node bin/cacheclear.js -p password
 ```
 
 Passing in the Project/Job Argument
 --------------------
 
 ```
-node bin/cacheclear.js -j=projectname
+node bin/cacheclear.js -j projectname
 ```
-
-###### Projects ######
-- **learn** 
-- flh
-
-> Bold indicates default
 
 Passing in the Environment Argument
 --------------------
 
 ```
-node bin/cacheclear.js -e=environmentname
+node bin/cacheclear.js -e environmentname
 ```
-
-###### Environments ######
-- **staging** 
-- production
-
-> Bold indicates default
