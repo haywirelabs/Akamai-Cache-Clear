@@ -1,16 +1,14 @@
 cpcodes:
-  project1:
-    - 000000
-    - 000000
-    - 000000
-  project2:
-    - 000000
-    - 000000
+  learn:
+    - 226843
+    - 226844
+    - 226847
+  flh:
+    - 250086
+    - 250087
 notificationList:
-  - user@email.com
-  - user@email.com
-  - user@email.com
+  - joe.osborne@aquilent.com
 defaultEnvironment: staging
-defaultProject: project1
-akamaiUser: USER@DOMAIN.COM
-akamaiPW: YOURPASSWORD
+defaultProject: learn
+akamaiUser: joe.osborne@aquilent.com
+akamaiPW: jZsL7FAs2RngXa
